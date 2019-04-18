@@ -4,3 +4,4 @@ numpy
 scikit-learn
 pandas==0.24.2
 statsmodels
+tqdm
