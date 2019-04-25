@@ -6,6 +6,12 @@ Repo for Project 4 of MSE 215 Spring 2019.
 *Due May 3rd at 11:59pm.*
 
 
+<script src="//yihui.name/js/math-code.js"></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 ## MSE 215: Computational Materials Science, Spring 2019
 ## Department of Materials Science and Engineering | University of California, Berkeley
 
